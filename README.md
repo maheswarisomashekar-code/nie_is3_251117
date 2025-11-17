@@ -3,7 +3,11 @@ Android App Development Learning using React Native
 We will have 5 days of learning
 Day 1:Setup,Say Hi to android dev
 using react native
+<br>
 Learned git comments 
+<br>
     -clone
+    <br>
     -add
+    <br>
     -commit
