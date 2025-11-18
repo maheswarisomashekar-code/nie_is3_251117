@@ -10,4 +10,4 @@ Learned git comments
     <br>
     -add
     <br>
-    -commit;
+    -commit
